@@ -1,0 +1,7 @@
+{
+  "name": "c-vector",
+  "version": "0.1.0",
+  "src": [
+    "cvector.h"
+  ]
+}
